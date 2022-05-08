@@ -1,0 +1,11 @@
+databaseHost=localhost
+databaseUser=root
+databasePassword=academiadoflutter
+databasePort=3306
+databaseName=cuidapet_db
+jwtSecret=Infotron1844Diego2336
+refresh_token_expire_days=20
+refresh_token_not_before_hours=12
+
+
+
